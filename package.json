@@ -1,0 +1,26 @@
+{
+  "name": "gulp-matt",
+  "version": "1.0.0",
+  "description": "gulp 前端工作流",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burnman/gulp-matt.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "matt chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burnman/gulp-matt/issues"
+  },
+  "homepage": "https://github.com/burnman/gulp-matt#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
